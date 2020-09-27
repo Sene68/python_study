@@ -1,2 +1,2 @@
 # python_study
-this is a repository on python study 
+This is a repository on python study 
