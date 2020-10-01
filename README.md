@@ -1,2 +1,3 @@
-# python_study
-This is a repository on python study 
+# Python Study
+This is a repository on python study  
+I am studying on HackerRank
