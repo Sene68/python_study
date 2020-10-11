@@ -6,8 +6,10 @@ def swap_case(s):
     for i in s:
         if (i.isupper()):
             swap.append(i.lower())
-        else:
+        elif(i.islower()):
             swap.append(i.upper())
+        else:
+            swap.append(i)
     return ''.join(swap)
 
 if __name__ == '__main__':
